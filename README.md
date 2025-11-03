@@ -9,9 +9,9 @@ Each day brings a new problem, a fresh concept, and a small step toward masterin
 
 ## 📅 Daily Progress
 
-| Day | Topic / Concept | Description | Link |
-|-----|------------------|--------------|------|
-| 01  | Basics & SELECT queries | Getting started with data exploration and filtering | [Day 01](day01/) |
+| Day | Topic / Concept | Description | 
+|-----|------------------|--------------|
+| 01  | Basics & SELECT queries | Getting started with data exploration and filtering | 
 
 
 
