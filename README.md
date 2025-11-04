@@ -39,4 +39,4 @@ Let’s connect and learn together!
 ---
 
 ⭐ **If you’re on a similar learning journey, feel free to fork, star, or share ideas!**  
-#SQLWithIDC #SQL #DataAnalytics #21DayChallenge #LearnSQL #DataLearning #ContinuousLearning
+ @dpdzero @indiandataclub #SQLWithIDC #SQL #DataAnalytics #21DayChallenge #LearnSQL #DataLearning #ContinuousLearning
