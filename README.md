@@ -11,7 +11,8 @@ Each day brings a new problem, a fresh concept, and a small step toward masterin
 
 | Day | Topic / Concept | Description | 
 |-----|------------------|--------------|
-| 01  | Basics & SELECT queries | Getting started with data exploration and filtering | 
+| 01  | Basics & SELECT queries | Getting started with data exploration and filtering |
+| 02  | Filtering Data with WHERE Clause | Usage of WHERE , GROUP BY, HAVING clauses |
 
 
 
