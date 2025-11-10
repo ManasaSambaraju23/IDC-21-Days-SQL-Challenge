@@ -16,6 +16,7 @@ Each day brings a new problem, a fresh concept, and a small step toward masterin
 | 03  | Sorting Data with ORDER BY | ORDER BY, ASC/DESC, multiple column sorting |
 | 04  | LIMIT and OFFSET | LIMIT, OFFSET, pagination concepts |
 | 05  | Aggregate Functions | COUNT, SUM, AVG, MIN, MAX functions |
+| 06  | GROUP BY Clause | GROUP BY, aggregating by categories |
 
 
 
