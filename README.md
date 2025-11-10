@@ -17,6 +17,7 @@ Each day brings a new problem, a fresh concept, and a small step toward masterin
 | 04  | LIMIT and OFFSET | LIMIT, OFFSET, pagination concepts |
 | 05  | Aggregate Functions | COUNT, SUM, AVG, MIN, MAX functions |
 | 06  | GROUP BY Clause | GROUP BY, aggregating by categories |
+| 07  | HAVING Clause | HAVING clause, filtering aggregated results |
 
 
 
