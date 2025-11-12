@@ -19,6 +19,7 @@ Each day brings a new problem, a fresh concept, and a small step toward masterin
 | 06  | GROUP BY Clause | GROUP BY, aggregating by categories |
 | 07  | HAVING Clause | HAVING clause, filtering aggregated results |
 | 08  | String Functions | UPPER, LOWER, LENGTH, CONCAT, SUBSTRING,CASE FUNCTIONS |
+| 09  | Date Functions | DATE functions, date arithmetic, EXTRACT |
 
 
 
