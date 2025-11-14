@@ -21,7 +21,7 @@ Each day brings a new problem, a fresh concept, and a small step toward masterin
 | 08  | String Functions | UPPER, LOWER, LENGTH, CONCAT, SUBSTRING,CASE FUNCTIONS |
 | 09  | Date Functions | DATE functions, date arithmetic, EXTRACT |
 | 10  | CASE Statements | CASE WHEN, conditional logic, derived columns |
-
+| 11  | DISTINCT and Handling Duplicates | DISTINCT, removing duplicates, unique values |
 
 
 ---
