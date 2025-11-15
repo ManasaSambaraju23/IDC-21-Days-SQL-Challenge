@@ -22,7 +22,7 @@ Each day brings a new problem, a fresh concept, and a small step toward masterin
 | 09  | Date Functions | DATE functions, date arithmetic, EXTRACT |
 | 10  | CASE Statements | CASE WHEN, conditional logic, derived columns |
 | 11  | DISTINCT and Handling Duplicates | DISTINCT, removing duplicates, unique values |
-
+| 12  | NULL Values | NULL handling, IS NULL, IS NOT NULL, COALESCE |
 
 ---
 
