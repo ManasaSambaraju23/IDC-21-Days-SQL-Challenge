@@ -23,7 +23,7 @@ Each day brings a new problem, a fresh concept, and a small step toward masterin
 | 10  | CASE Statements | CASE WHEN, conditional logic, derived columns |
 | 11  | DISTINCT and Handling Duplicates | DISTINCT, removing duplicates, unique values |
 | 12  | NULL Values | NULL handling, IS NULL, IS NOT NULL, COALESCE |
-
+| 13  |  INNER JOIN | INNER JOIN, joining two tables, relationship understanding |
 ---
 
 ## 💡 What I’m Learning
