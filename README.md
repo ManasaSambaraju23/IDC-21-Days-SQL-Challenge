@@ -24,6 +24,7 @@ Each day brings a new problem, a fresh concept, and a small step toward masterin
 | 11  | DISTINCT and Handling Duplicates | DISTINCT, removing duplicates, unique values |
 | 12  | NULL Values | NULL handling, IS NULL, IS NOT NULL, COALESCE |
 | 13  |  INNER JOIN | INNER JOIN, joining two tables, relationship understanding |
+| 14  |  LEFT JOIN and RIGHT JOIN | LEFT JOIN, RIGHT JOIN, including unmatched records |
 ---
 
 ## 💡 What I’m Learning
