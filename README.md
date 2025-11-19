@@ -25,6 +25,7 @@ Each day brings a new problem, a fresh concept, and a small step toward masterin
 | 12  | NULL Values | NULL handling, IS NULL, IS NOT NULL, COALESCE |
 | 13  |  INNER JOIN | INNER JOIN, joining two tables, relationship understanding |
 | 14  |  LEFT JOIN and RIGHT JOIN | LEFT JOIN, RIGHT JOIN, including unmatched records |
+| 15  |  Multiple Joins | Joining more than two tables, complex relationships |
 ---
 
 ## 💡 What I’m Learning
