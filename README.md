@@ -26,6 +26,7 @@ Each day brings a new problem, a fresh concept, and a small step toward masterin
 | 13  |  INNER JOIN | INNER JOIN, joining two tables, relationship understanding |
 | 14  |  LEFT JOIN and RIGHT JOIN | LEFT JOIN, RIGHT JOIN, including unmatched records |
 | 15  |  Multiple Joins | Joining more than two tables, complex relationships |
+| 16  |  Subqueries (WHERE clause) | Subqueries in WHERE, nested queries, filtering with subqueries |
 ---
 
 ## 💡 What I’m Learning
