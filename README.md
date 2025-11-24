@@ -27,6 +27,8 @@ Each day brings a new problem, a fresh concept, and a small step toward masterin
 | 14  |  LEFT JOIN and RIGHT JOIN | LEFT JOIN, RIGHT JOIN, including unmatched records |
 | 15  |  Multiple Joins | Joining more than two tables, complex relationships |
 | 16  |  Subqueries (WHERE clause) | Subqueries in WHERE, nested queries, filtering with subqueries |
+| 17  |  Subqueries (SELECT and FROM clause)) | Subqueries in SELECT, derived tables, inline views |
+| 18  | UNION and UNION ALL  | UNION, UNION ALL, combining result sets |
 ---
 
 ## 💡 What I’m Learning
