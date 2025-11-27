@@ -30,6 +30,7 @@ Each day brings a new problem, a fresh concept, and a small step toward masterin
 | 17  |  Subqueries (SELECT and FROM clause)) | Subqueries in SELECT, derived tables, inline views |
 | 18  | UNION and UNION ALL  | UNION, UNION ALL, combining result sets |
 | 19  | Window Functions - ROW_NUMBER, RANK, DENSE_RANK  | ROW_NUMBER(), RANK(), DENSE_RANK(), OVER clause |
+| 20  | Window Functions - Aggregate Window Functions  |  SUM() OVER, AVG() OVER, running totals, moving averages |
 ---
 
 ## 💡 What I’m Learning
