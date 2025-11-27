@@ -31,6 +31,7 @@ Each day brings a new problem, a fresh concept, and a small step toward masterin
 | 18  | UNION and UNION ALL  | UNION, UNION ALL, combining result sets |
 | 19  | Window Functions - ROW_NUMBER, RANK, DENSE_RANK  | ROW_NUMBER(), RANK(), DENSE_RANK(), OVER clause |
 | 20  | Window Functions - Aggregate Window Functions  |  SUM() OVER, AVG() OVER, running totals, moving averages |
+| 21  |  Common Table Expressions (CTEs)  |  WITH clause, CTEs, recursive CTEs (if applicable), query organization |
 ---
 
 ## 💡 What I’m Learning
